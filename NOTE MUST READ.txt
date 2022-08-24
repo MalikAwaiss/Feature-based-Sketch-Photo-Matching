@@ -1,0 +1,9 @@
+MUST READ THE NOTE BELOW...
+
+in sift_find.py at line no 18 there is a variable named "db" and in sift_calculate.py at line no 20 and 34 and in main.py at line no 552, that is the location of your Mugshot 
+database so before running the application change this address to your database and run the application and on the search page, there is a button named "calculate descriptors",
+press that button and wait for few minutes depending on the power of your of system. it will calculate feature vectors of every image in your database and store them.
+after that you will be able to perform search.
+
+
+
